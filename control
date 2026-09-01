@@ -1,0 +1,9 @@
+Package: com.hx.weatherclear
+Name: WeatherWidgetClear
+Depends: mobilesubstrate
+Description: 天气小组件完全透明化
+Maintainer: hx
+Author: hx
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0
