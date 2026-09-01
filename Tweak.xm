@@ -10,6 +10,7 @@
 - (void)setBackgroundRemovable:(BOOL)removable;
 - (void)setTransparent:(BOOL)transparent;
 - (void)setPreferredBackgroundStyle:(NSInteger)style;
+- (void)applyWeatherTransparency;
 @end
 
 %hook CHSMutableWidgetDescriptor
